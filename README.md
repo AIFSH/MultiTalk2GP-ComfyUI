@@ -6,7 +6,9 @@ a ComfyUI custom node for MultiTalk
 
 - support AccVideo-i2v-14B-480p base model in 5 steps(fastest)
 - support MagCache and TeaCache
-- 
+
+
+  
 ### coming soon in week
 
 ### 如果着急可以先用镜像
